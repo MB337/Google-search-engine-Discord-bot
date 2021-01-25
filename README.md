@@ -20,3 +20,6 @@ pip install google-api-python-client
 
 # Knowledge appreciated
 For this bot you have to know how to build a Discord bot and have some experience with Google API.
+
+# Contact me 
+My gmail: mbmatteobianchi@gmail.com
