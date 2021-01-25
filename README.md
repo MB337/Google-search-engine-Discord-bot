@@ -9,3 +9,14 @@ Here's an example:
 
 
 ![alt-text](https://github.com/MB337/Google-search-engine-Discord-bot/blob/main/result.png)
+
+
+# Modules to install
+You may have some problems with the installation of the google api module, you can check [this](https://stackoverflow.com/questions/18267749/importerror-no-module-named-apiclient-discovery).
+```
+pip install discord.py
+pip install google-api-python-client
+```
+
+# Knowledge appreciated
+For this bot you have to know how to build a Discord bot and have some experience with Google API.
