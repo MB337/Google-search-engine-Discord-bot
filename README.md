@@ -1,5 +1,5 @@
 # Google-search-engine-Discord-bot
-### THIS DISCORD BOT IS MADE WITH DISCORD API AND GOOGLE CUSTOM SEARCH API.
+### **THIS DISCORD BOT IS MADE WITH DISCORD API AND GOOGLE CUSTOM SEARCH API.**
 This Discord bot sends to you the best links for a specific answer. 
 It checks if the answer of your question is on Stackoverflow, Github, Google, Wikipedia, Youtube or Reddit. 
 
