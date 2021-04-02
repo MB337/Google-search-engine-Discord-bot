@@ -3,7 +3,7 @@
 This Discord bot sends to you the best links for a specific answer. 
 It checks if the answer of your question is on Stackoverflow, Github, Google, Wikipedia, Youtube or Reddit. 
 
-The command for make an answer id **"q? how to do a Discord bot"**, the bot will add 6 reactions (one for each website) and will write a response based on the reaction clicked. 
+The command for make an answer is **"q? how to do a Discord bot"**, the bot will add 6 reactions (one for each website) and will write a response based on the reaction clicked. 
 
 Here's an example:
 
